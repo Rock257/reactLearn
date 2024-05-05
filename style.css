@@ -2,3 +2,8 @@
     font-size: 2rem;
     background-color: burlywood;
 }
+
+#btn2{
+    background-color: red ;
+    border-radius: 1rem;
+}
